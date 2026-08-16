@@ -1,1 +1,10 @@
 # ASTRAL_VOID
+
+# mods/
+ └── ASTRAL_VOID/
+    ├── data/
+    │   └── characters/
+    │       └── astral.xml
+    └── images/
+        └── characters/
+            └── astral.png
